@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on GIS projects
 - 📫 How to reach me: on github
-- 😄 Pronouns: He
 - ⚡ Fun fact: Im learning how to code
 
 <!---
