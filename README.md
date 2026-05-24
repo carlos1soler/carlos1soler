@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on GIS projects
 - 📫 How to reach me: on github
-- ⚡ Fun fact: Im learning how to code
+
 
 <!---
 carlos1soler/carlos1soler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
