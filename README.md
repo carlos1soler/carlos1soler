@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @carlos1soler
-- 👀 I’m interested in learning how to code and how to apply coding skills in GIS 
+- 👀 I’m interested in learning how to code and how to apply coding skills in finance and GIS 
 - 🌱 I’m currently studying computer science
-- 💞️ I’m looking to collaborate on GIS projects
+- 💞️ I’m looking to collaborate on finance projects
 - 📫 How to reach me: on github
 
 
